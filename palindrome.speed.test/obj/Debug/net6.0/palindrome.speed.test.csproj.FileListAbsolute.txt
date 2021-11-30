@@ -1,0 +1,15 @@
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\obj\Debug\net6.0\palindrome.speed.test.csproj.AssemblyReference.cache
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\obj\Debug\net6.0\palindrome.speed.test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\obj\Debug\net6.0\palindrome.speed.test.AssemblyInfoInputs.cache
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\obj\Debug\net6.0\palindrome.speed.test.AssemblyInfo.cs
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\obj\Debug\net6.0\palindrome.speed.test.csproj.CoreCompileInputs.cache
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\bin\Debug\net6.0\palindrome.speed.test.exe
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\bin\Debug\net6.0\palindrome.speed.test.deps.json
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\bin\Debug\net6.0\palindrome.speed.test.runtimeconfig.json
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\bin\Debug\net6.0\palindrome.speed.test.dll
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\bin\Debug\net6.0\ref\palindrome.speed.test.dll
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\bin\Debug\net6.0\palindrome.speed.test.pdb
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\obj\Debug\net6.0\palindrome.speed.test.dll
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\obj\Debug\net6.0\ref\palindrome.speed.test.dll
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\obj\Debug\net6.0\palindrome.speed.test.pdb
+C:\Users\alexw\source\repos\palindrome.speed.test\palindrome.speed.test\obj\Debug\net6.0\palindrome.speed.test.genruntimeconfig.cache
